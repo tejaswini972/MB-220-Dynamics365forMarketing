@@ -108,4 +108,4 @@ The scoring model will be on a grading scale of 1-100 as follows:
 
 12. Save and check for errors. Correct any as needed.
 
-13.  Click on **Go live** which is present at the top menu of Scoring model.
+13.  Click on **Go live** which is present at the top menu of **[my prefix] Contoso Southwest Outreach Model** scoring model.
