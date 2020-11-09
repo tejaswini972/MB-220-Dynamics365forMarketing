@@ -41,6 +41,39 @@ Exercise 1 - Access the Dynamics 365 application
 
 2.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform admin center.**
 
-4. From the list of available Dynamics 365 apps, select **Marketing**.
+4.  From the list of available Dynamics 365 apps, select **Marketing**.
 
-5. Spend a few minutes exploring the application.
+5.  Spend a few minutes exploring the application.
+
+### Task 3 : Upload marketing content 
+
+1.  From the left side menu of the Marketing app, navigate to **Files** in the Marketing Content section and click the **+ Upload** button to open the upload files window. Add the below mentioned 10 image files.
+
+    -   briefcase.png
+
+    -   contosologo.png
+
+    -   facebook.png
+
+    -   flood.png
+
+    -   heroemail.jpg
+
+    -   heropage.jpg
+
+    -   linkedin.png
+
+    -   safebox.png
+
+    -   travel.png
+
+    -   twitter.png
+
+1.  While the upload window is open, click on **Add keywords**  which is under the contosologo image file to add the keywords **logo** and **contoso**.
+
+1.  Since this is a new system, keywords will need to be created instead of selected.
+
+     -   To create a new record, click on **+New Record** then select **keywords** under **Select a record type to create**, give name as **logo** and click on **Save and Close**. The created record will be selected automatically.
+     -   Repeat the same process to create one more record **contoso**.  When you’re done adding keywords, click on **Upload**.
+
+1.  Ensure 10 images files uploaded.Using the search bar, type **con** and hit enter and ensure the Contoso logo appears in the search results.
