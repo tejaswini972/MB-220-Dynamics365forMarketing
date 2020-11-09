@@ -95,7 +95,7 @@ journey.
 
 3. Generate a statement so that: Contact’s Account is Relecloud And Contacts All.
 
-    - Click **+New Query Block.**
+    - Click **Add Query Block.**
     
     - **Contact** should be selected as the query entity.
     
@@ -132,17 +132,15 @@ Contoso.
 
 1.  Open a new tab. Navigate to home.dynamics.com.
 
-2.  Select **Surveys.**
+1.  Under the **Customers** group in the left menu, select **Marketing Lists.**
 
-3.  Under the **Customers** group in the left menu, select **Marketing Lists.**
-
-4.  Select **+New subscription list.**
+1.  Select **+New subscription list.**
 
     - Name the list **[my prefix] Contoso Subscription List**.
 
     - Save your changes.
 
-5.  Add the subscription list to a subscription form.
+1.  Add the subscription list to a subscription form.
 
     - Return to the Marketing app.
     
@@ -168,7 +166,7 @@ Contoso.
 
     - Go live.
 
-6.  Create a new marketing page.
+1.  Create a new marketing page.
 
     - Navigate to Marketing pages and click **+New**. When prompted to select a template, click **Skip.**
 
@@ -190,7 +188,7 @@ Contoso.
 
     - Go live.
 
-7.  Update content settings.
+1.  Update content settings.
 
     - Navigate to Content Settings in the Templates section and select the
         default content settings record. You will need to stop the entity record
