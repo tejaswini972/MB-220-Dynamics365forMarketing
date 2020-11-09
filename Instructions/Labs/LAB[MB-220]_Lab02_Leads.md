@@ -68,11 +68,11 @@ The scoring model will be on a grading scale of 1-100 as follows:
     - Hot 60-99
 
 5.  Navigate to the **Toolbox**. Drag a Condition onto the canvas. Name the
-    condition Industry Demographic.
+    **condition Industry Demographic**.
 
 6.  On the condition tile, select the arrow down button to expose the child
-    condition. Select the child condition and name it Industry. In the entity
-    field, select Lead. Add the following expressions:
+    condition. Select the child condition and name it **Industry**. In the entity
+    field, select **Lead**. Add the following expressions:
 
     - Industry = Business Services
 
@@ -83,13 +83,13 @@ The scoring model will be on a grading scale of 1-100 as follows:
     - **Note:** You may have the option to select from two Industry fields. Pick the one that has Values as option sets, not empty fields.
 
 7.  Navigate back to the toolbox and add an Action to the right of the Industry
-    Demographic condition. In the action, increase the score by 15.
+    Demographic condition. In the action, increase the score by **15**.
 
 8.  In the toolbox, drag a new condition below Industry Demographic and name it
-    Southwest Demographic.
+    **Southwest Demographic**.
 
 9.  On the condition tile, select the arrow down button to expose the child
-    condition. Select the child condition and name it Southwest States.
+    condition. Select the child condition and name it **Southwest States**.
 
 10. Since our state field lives on the contact level, we will have to make a
     transcendental jump from lead to contact. In the entity field, type Lead
@@ -108,4 +108,4 @@ The scoring model will be on a grading scale of 1-100 as follows:
 
 12. Save and check for errors. Correct any as needed.
 
-13. Go live.
+13.  Click on **Go live** which is present at the top menu of Scoring model.
