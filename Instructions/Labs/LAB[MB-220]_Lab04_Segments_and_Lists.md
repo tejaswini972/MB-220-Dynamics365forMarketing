@@ -202,7 +202,7 @@ Contoso.
 
         4.  Facebook URL: https://www.facebook.com/Contoso-102137176602590/
 
-        5.  Subscription center: Use the edit assist option to select the
+        5.  Subscription center: Use the edit assist option "**</>**" to select the
             Contoso Subscription Page you just created. Be sure to select the
             FullPageURL.
 
